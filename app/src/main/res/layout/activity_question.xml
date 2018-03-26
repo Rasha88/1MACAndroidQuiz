@@ -41,11 +41,9 @@
         <ImageView
             android:id="@+id/img_question"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="0"
+            android:layout_height="100dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/top_logo"
-            android:layout_marginBottom="16dp"/>
+            android:src="@drawable/top_logo" />
 
         <EditText
             android:id="@+id/entry_answer_edit_text"
